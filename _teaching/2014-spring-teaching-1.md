@@ -1,4 +1,3 @@
-
 ---
 title: "Graduate Student Instructor – University of Michigan"
 collection: teaching
