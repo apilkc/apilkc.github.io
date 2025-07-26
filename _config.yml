@@ -15,7 +15,7 @@ name                     : &name "Apil KC"
 description              : &description "PhD candidate in urban and regional planning with research interests in climate change, disaster, urban resilience and governance. Focused on advancing equitable and adaptive urban development through interdisciplinary approaches."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "apilkc/apilkc.github.io"
+repository               : "https://apilkc.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
