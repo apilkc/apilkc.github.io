@@ -12,6 +12,11 @@ I am a PhD student in Urban and Regional Planning at the [University of Michigan
 
 My research examines how post-disaster housing recovery can be made more equitable, efficient, and locally responsive. I use ethnographic and mixed-method approaches to understand how financial assistance, technical support, and institutional frameworks shape recovery outcomes—especially for marginalized communities. I aim to contribute toward recovery models that not only rebuild structures but restore livelihoods, autonomy, and resilience.
 
+If you want to meet me over zoom and talk something exciting, let's schedule our next meet here. 
+<a href="https://calendar.app.google/oZRpq7Eaf6Jkj6iU8" class="btn btn--info" target="_blank">
+  <i class="fas fa-calendar-alt"></i> Let's Schedule
+</a>
+
 ## Current Projects
 
 - **Post-Disaster Housing Recovery**: Comparative analysis of satisfaction and equity in household-level outcomes following Nepal’s 2015 earthquake
