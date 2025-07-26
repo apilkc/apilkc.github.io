@@ -11,35 +11,59 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Urban and Regional Planning, University of Michigan, Ann Arbor, 2023–2027 (expected)
+  * Advisor: Prof. Dr. Larissa Larsen
+* M.Sc. in Urban Planning, Tribhuvan University, Nepal / Cologne University of Applied Sciences, Germany, 2012–2015
+* B.Arch., Tribhuvan University, Nepal, 2007–2012
 
-Work experience
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 (Feb–Dec): Team Leader, Urban Park Pvt. Ltd.  
+  * Project: Operational Energy Baseline Study, SWITCH Asia / MinErgy  
+  * Led survey implementation and report writing for building energy baseline in Nepal
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023 (Jan–Jun): Project Coordinator, Urban Park Pvt. Ltd.  
+  * Client: DT Global / Investment Board Nepal  
+  * Drafted environmental and social safeguard guidelines
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 (Feb–Oct): DRR Specialist, Urban Park Pvt. Ltd.  
+  * Client: DAI / USAID Tayar Nepal  
+  * Established municipal housing support centers in Dullu
+
+* 2021–2022: DRR Specialist, Urban Park Pvt. Ltd.  
+  * Designed flood and landslide resilience strategies in Surkhet district
+
+* 2021: Individual Consultant, World Bank Group  
+  * Reviewed Nepal’s building code implementation under federalism
+
+* 2020: Project Coordinator, Urban Park Pvt. Ltd.  
+  * Led Integrated Urban Development Planning for 18 municipalities
+
+* 2018–2019: Strategic Planning Consultant, World Bank / GoN  
+  * Urban planning for municipalities in Eastern Terai
+
+* 2016–2018: CBDRRM Coordinator, JICA / ERAKV  
+  * Community-based disaster planning in Kathmandu Valley
+
+* 2016 (Oct–Dec): Program Evaluator, WWF Nepal / USAID  
+  * Green recovery assessment
+
+* 2016 (Aug–Oct): Urban Planner, UNDP  
+  * Post-earthquake NBC assessment
+
+* 2015–2016: Researcher, UNDP/IOE/CEPT  
+  * Authored national re-clustering manual for post-disaster housing
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Quantitative & Qualitative Analysis**
+  * R, Python, NVivo, Excel
+* **GIS & Design**
+  * ArcGIS, QGIS, Google Earth Engine, AutoCAD, Adobe Illustrator, InDesign
+* **Research Methods**
+  * Mixed-methods, survey design, impact evaluation
 
 Publications
 ======
@@ -47,18 +71,29 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards and Grants
 ======
-* Currently signed in to 43 different slack teams
+* Center for Global Health Equity Grant, University of Michigan – $5,000 (2025)
+* Rackham International Research Award, University of Michigan – $6,500 (2025)
+* William A. and Shirley P. Yolles Graduate Fund for Research on Humanitarianism – $2,000 (2025)
+
+Service and Leadership
+======
+* General Secretary, 14th Executive Committee, Society of Nepalese Architects (SONA), 2021–2023  
+  * Represented SONA at international forums and conventions  
+  * Contributed to the drafting of Nepal’s Urban Act 2023 from a built environment perspective  
+  * Founded SONA's online magazine, *The Built Culture*, to promote critical discourse on architecture and planning in Nepal
+* Life Member, Society of Nepalese Architects (SONA) – #671  
+* Life Member, Regional & Urban Planners Society of Nepal (RUPSON)  
+  * Contributed to urban policy discussions and development planning initiatives  
+* Life Member, Nepal Engineers Association – #14348 (“Architect”)  
+* Registered Architect, Nepal Engineering Council – #1070 (“Architecture”)
+* Media contributor on urban and heritage topics in *Setopati*, *Republica*, and *The Rising Nepal*
+
