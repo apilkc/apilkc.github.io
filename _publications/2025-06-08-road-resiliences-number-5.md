@@ -1,7 +1,7 @@
 ---
 title: "Interdisciplinary perspectives on the intersections of roads, sustainable development, and disaster resilience"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/roads_sustainable_development_disaster_resilience
 excerpt: "This paper introduces the concept of 'roads-in-relation' as a framing device for interdisciplinary research that links road networks, sustainable development, and disaster resilience, based on a hybrid workshop with practitioners and scholars."
 date: 2025-07-01
