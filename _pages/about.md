@@ -24,3 +24,14 @@ If you want to meet me over zoom and talk something exciting, let's schedule our
 - **Resilience and Inclusion**: Advancing frameworks that integrate lived experiences into disaster planning and evaluation
 - **Chitwan Flooding**: Investigating how local stakeholders coordinate everyday responses to low-attention disasters like floods in Chitwan, Nepal.
 
+## Recent posts
+<h2>Latest Blog Posts</h2>
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br>
+      <small>{{ post.date | date: "%B %d, %Y" }}</small>
+      <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+    </li>
+  {% endfor %}
+</ul>
