@@ -27,7 +27,7 @@ If you want to meet me over zoom and talk something exciting, let's schedule our
 <h2>Latest Publications</h2>
 <ul>
   {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
-  {% for pub in sorted_pubs limit:3 %}
+  {% for pub in sorted_pubs limit:2 %}
     <li>
       <a href="{{ pub.url | relative_url }}">{{ pub.title }}</a><br>
       <small>{{ pub.date | date: "%B %d, %Y" }}</small><br>
