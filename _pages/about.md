@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Welcome
 
-I am a PhD student in Urban and Regional Planning at the [University of Michigan, Ann Arbor](https://taubmancollege.umich.edu/urbanplanning/), working with [Prof. Larissa Larsen](https://taubmancollege.umich.edu/faculty/directory/larissa-larsen/) on issues of urban resilience, governance, and equitable recovery. I am also affiliated with the [AIDD Lab (Advancing Infrastructure through Data and Design)](https://disasterdata.engin.umich.edu/team/apil-k-c), led by [Prof. Sabine Loos](https://disasterdata.engin.umich.edu/team/sabine-loos/), where I collaborate on interdisciplinary research linking infrastructure, disasters, and social inclusion.
+I am a PhD student in Urban and Regional Planning at the [University of Michigan, Ann Arbor](https://taubmancollege.umich.edu/urbanplanning/), working with [Prof. Larissa Larsen](https://taubmancollege.umich.edu/faculty/directory/larissa-larsen/) on issues of urban resilience, governance, and equitable recovery. I am also affiliated with the [AIDD Lab (Advancing Infrastructure through Data and Design)](https://disasterdata.engin.umich.edu/team), led by [Prof. Sabine Loos](https://disasterdata.engin.umich.edu/team/sabine-loos/), where I collaborate on interdisciplinary research linking  disasters,impact focusing on social inclusion.
 
 My research examines how post-disaster housing recovery can be made more equitable, efficient, and locally responsive. I use ethnographic and mixed-method approaches to understand how financial assistance, technical support, and institutional frameworks shape recovery outcomes—especially for marginalized communities. I aim to contribute toward recovery models that not only rebuild structures but restore livelihoods, autonomy, and resilience.
 
@@ -24,7 +24,7 @@ If you want to meet me over zoom and talk something exciting, let's schedule our
 - **Resilience and Inclusion**: Advancing frameworks that integrate lived experiences into disaster planning and evaluation
 - **Chitwan Flooding**: Investigating how local stakeholders coordinate everyday responses to low-attention disasters like floods in Chitwan, Nepal.
 
-## Recent posts
+
 <h2>Latest Blog Posts</h2>
 <ul>
   {% for post in site.posts limit:3 %}
