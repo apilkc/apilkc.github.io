@@ -24,6 +24,24 @@ If you want to meet me over zoom and talk something exciting, let's schedule our
 - **Resilience and Inclusion**: Advancing frameworks that integrate lived experiences into disaster planning and evaluation
 - **Chitwan Flooding**: Investigating how local stakeholders coordinate everyday responses to low-attention disasters like floods in Chitwan, Nepal.
 
+<h2>Latest Publications</h2>
+<ul>
+  {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
+  {% for pub in sorted_pubs limit:3 %}
+    <li>
+      <a href="{{ pub.url | relative_url }}">{{ pub.title }}</a><br>
+      <small>{{ pub.date | date: "%B %d, %Y" }}</small><br>
+      {% if pub.venue %}<em>{{ pub.venue }}</em><br>{% endif %}
+      {% if pub.excerpt %}
+        <p>{{ pub.excerpt | strip_html | truncatewords: 25 }}</p>
+      {% endif %}
+      {% if pub.paperurl %}
+        <a href="{{ pub.paperurl }}" target="_blank">[PDF]</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
 
 <h2>Latest Blog Posts</h2>
 <ul>
