@@ -7,8 +7,6 @@ tags:
   - disaster
 ---
 
-Local authorities have not really understood true spirit of heritage reconstruction. Decisions are being changed quite often
-
 The 2015 great earthquakes had a major impact on cultural heritage. Hundreds of monuments, including palaces, temples, monasteries, chaityas, bahals, sattals and patis collapsed and many were badly damaged. According to the preliminary report of Department of Archaeology (DOA), the earthquake had affected as many as 745 monuments in 20 districts. UNESCO world heritage sites—three Durbar Squares of Kathmandu, Patan and Bhaktapur, Swayambhunath, Boudhanath, Pashupatinath and Changu Narayan—also suffered damage.  
 
 These structures built in ancient time are of great historic and archaeological importance. Most of heritage structures in Nepal have brick masonry as the principal load-bearing structural system. Many studies of the past earthquakes show that brick and stone masonry structures have suffered the maximum damage in moderate to severe ground shakings. This is because of their age and heavy weight, structural deficiency, age and maintenance level, material quality and large amplification of short period waves in the earthquake motions. Besides, masonry has very low tensile and shear strength and fails in a brittle manner. 
