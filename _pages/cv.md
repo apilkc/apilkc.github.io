@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Urban and Regional Planning, University of Michigan, Ann Arbor, 2023–2027 (expected)
-  * Advisor: Prof. Dr. Larissa Larsen
+  * Advisor: [Larissa Larsen](https://taubmancollege.umich.edu/faculty/directory/larissa-larsen/)
+  * Committee members: 
 * M.Sc. in Urban Planning, Tribhuvan University, Nepal / Cologne University of Applied Sciences, Germany, 2012–2015
 * B.Arch., Tribhuvan University, Nepal, 2007–2012
 
