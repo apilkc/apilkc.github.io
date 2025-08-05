@@ -13,7 +13,8 @@ Education
 ======
 * Ph.D. in Urban and Regional Planning, University of Michigan, Ann Arbor, 2023–2027 (expected)
   * Advisor: [Larissa Larsen](https://taubmancollege.umich.edu/faculty/directory/larissa-larsen/)
-  * Committee members: 
+  * Committee members: [Ana Paula Pimental Walker](https://taubmancollege.umich.edu/faculty/directory/ana-paula-pimentel-walker/), [Rob Goodspeed](https://taubmancollege.umich.edu/faculty/directory/robert-goodspeed/)
+  * Cognate Advisor : [Sabine Loos](https://cee.engin.umich.edu/people/loos-sabine/) 
 * M.Sc. in Urban Planning, Tribhuvan University, Nepal / Cologne University of Applied Sciences, Germany, 2012–2015
 * B.Arch., Tribhuvan University, Nepal, 2007–2012
 
