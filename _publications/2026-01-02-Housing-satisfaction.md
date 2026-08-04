@@ -9,7 +9,7 @@ venue: "International Journal of Disaster Risk Reduction"
 ---
 
 Published in *International Journal of Disaster Risk Reduction*, Volume 128, October 2025  
-(link)[https://www.sciencedirect.com/science/article/pii/S2212420925007721]
+[Read the article](https://www.sciencedirect.com/science/article/pii/S2212420925007721)
 **Apil K.C.**, Sabine Loos, Larissa Larsen
 
 **Abstract**  
